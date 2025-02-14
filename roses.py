@@ -2,11 +2,13 @@ import turtle as t
 import turtle 
 import turtle as tur 
 class harsh_rose:
-    def __init__():
+    def __init__():                          
      tur.title("Pythontpoint")
 tur.bgcolor("#FA2B9F")
 # Set initial position
 turtle.fillcolor ("red")
+
+
 turtle.begin_fill ()
 turtle.penup ()
 turtle.left (90)
